@@ -1,0 +1,9 @@
+new entry "BrialinAmulet"
+type "Armor"
+using "_Amulets"
+data "Value" "6"
+data "Initiative" "6"
+data "Fire" "10"
+data "VitalityBoost" "450"
+data "Skills" "Tornado_Air"
+

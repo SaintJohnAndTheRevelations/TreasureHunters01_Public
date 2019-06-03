@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1528042293" />
+    <version major="3" minor="1" revision="8" build="0" />
+    <region id="Tags">
+        <node id="root">
+            <children>
+                <node id="Tag">
+                    <attribute id="Description" value="You act the fool giving you an edge when trying to persuade those who underestimate you." type="23" />
+                    <attribute id="Name" value="BUFFOON" type="23" />
+                    <children>
+                        <node id="Categories">
+                            <children>
+                                <node id="Category">
+                                    <attribute id="Name" value="Dialog" type="23" />
+                                </node>
+                                <node id="Category">
+                                    <attribute id="Name" value="Story" type="23" />
+                                </node>
+                                <node id="Category">
+                                    <attribute id="Name" value="Profession" type="23" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

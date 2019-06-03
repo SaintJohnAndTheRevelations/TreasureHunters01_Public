@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1523374017" />
+    <version major="3" minor="1" revision="7" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="0a377af1-5a12-4142-a87a-79ad5bbf18b1" type="23" />
+            <attribute id="Name" value="TreasureHunters2" type="23" />
+            <attribute id="Type" value="Adventure" type="23" />
+            <attribute id="UUID" value="a3ef98c3-48f4-4b9e-86b7-ced4593638f6" type="23" />
+        </node>
+    </region>
+</save>

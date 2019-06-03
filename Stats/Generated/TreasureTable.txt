@@ -1,0 +1,4 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "DruidPresent"
+new subtable "2,1"
+object category "ST_RangedNormal",1,0,0,0,0,0,0,0

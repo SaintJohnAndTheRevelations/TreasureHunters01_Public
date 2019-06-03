@@ -1,0 +1,10 @@
+new entry "ProjectileStrike_EnemyEarthHail"
+type "SkillData"
+using "ProjectileStrike_MeteorShower"
+data "SkillType" "ProjectileStrike"
+data "ForGameMaster" "No"
+data "IsEnemySkill" "Yes"
+data "DisplayName" "ProjectileStrike_EnemyEarthHail_DisplayName"
+data "DisplayNameRef" "Boulder Rain"
+data "Memory Cost" "0"
+
